@@ -8,11 +8,15 @@ Our aim is to bridge the digital divide by providing accessible, innovative, and
 
 By embracing cutting-edge technology and open collaboration, we aspire to make a positive impact, empowering individuals and communities to thrive in an increasingly digital world.
 
+On a less serious note, this is a place I'd love to build into a thriving community of developers working on interesting and fun projects.
+
+
 ## Contributing
-Choc Labs projects are all on Github, making it easy for anyone to contribute.
 Whether you're a developer, designer, or have skills in documentation, there's a place for you.
 You can start by exploring our growing repertoire of repositories, submitting code improvements, reporting bugs, or suggesting new features.
 Your help is greatly appreciated. 
+
+
 
 ### Contact
 Feel free to contact me via email, or GitHub.
